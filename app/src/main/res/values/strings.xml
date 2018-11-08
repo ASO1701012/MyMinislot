@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMinislot</string>
+    <string name="mycoin">1000</string>
+    <string name="kakecoin">10</string>
+</resources>
